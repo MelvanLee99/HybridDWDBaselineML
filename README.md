@@ -15,3 +15,6 @@ source pyenv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+
+## Dataset Access
+For this dataset, can be access [here](https://bit.ly/FireSusceptibility)
