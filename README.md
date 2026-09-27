@@ -1,2 +1,17 @@
-# HybridDWDBaselineML
-Calibrated Wildfire Susceptibility Mapping using Integration DWD and Best Baseline Conventional Method
+# DWD-XGBoost: Integration Distance Weighted Discrimination with Extreme Gradient Boosting
+This project refer to the [J. S. Marron (2007)](https://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1366915) and Extreme Gradient Boost model research.
+
+## Setup - Python Built-in venv
+```
+# Open Terminal in the project directory
+python -m venv myenv
+# Windows:
+myenv\Scripts\activate
+
+# Linux/macOS:
+source pyenv/bin/activate
+
+# Install dependencies
+pip install --upgrade pip
+pip install -r requirements.txt
+```
