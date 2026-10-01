@@ -15,6 +15,7 @@ source pyenv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+> Note: All implementation codes run in Visual Studio Code, you need to install the app to use that.
 
 ## Dataset Access
 For this dataset, can be access [here](https://bit.ly/FireSusceptibility)
