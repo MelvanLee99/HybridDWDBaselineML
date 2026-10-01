@@ -19,3 +19,6 @@ pip install -r requirements.txt
 
 ## Dataset Access
 For this dataset, can be access [here](https://bit.ly/FireSusceptibility)
+
+## Contact Details
+For benchmark models, please DM me!
